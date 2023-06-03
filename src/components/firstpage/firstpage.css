@@ -1,0 +1,44 @@
+.searchinput{
+    border: none;
+    outline: none;
+    background-color: rgb(13,35,41);
+    color: white;
+    
+}
+
+    .searchbar{
+        /* border-radius: 22px; */
+        border:2px solid #ccc;
+        outline:none;
+        /* width: 500px; */
+        padding: 6px;
+        background:url('https://www.freepnglogos.com/uploads/search-png/search-icon-transparent-images-vector-16.png');
+        /* padding-left: 50px; */
+        background-repeat: no-repeat;
+        background-size: 23px,18px;
+        background-position: right 10px center;
+        color: white;
+}
+.firstpagemaindiv{
+    background-color:  rgb(13,35,41);
+    min-height: 100vh;
+}
+.maintext{
+    color: rgb(132,245,251);
+    font-size: 40px;
+}
+.mainparatext{
+    font-size: 30px;
+}
+.maincardsdivfirstpage{
+    margin-top: 100px;
+}
+.firstpagecard{
+    background-color:  rgb(13,35,41);
+    border: 2px solid rgb(132,245,251);
+    color: white;
+    padding-top: 20px;
+}
+.firstpagecard:hover{
+    transform: translate3D(0,-1px,0) scale(1.03); 
+}

@@ -1,0 +1,36 @@
+.navbarmain{
+    background-color: rgb(13,35,41);
+    
+     
+}
+@media screen and (min-width:280px) and (max-width:990px) {
+    .logodiv{
+        padding-top: 17px;
+        
+    }
+    .buttondiv{
+        padding-left: 10px;
+    }
+}
+.carouseldivmain{
+    background-color: rgb(13,35,41);
+}
+.carousel-inner-div{
+    border-radius: 10px;
+}
+.maincards{
+    width: 18rem;
+    background-color: rgb(13,35,41)!important;
+    border: 1px solid rgb(132,245,251)!important;
+    padding-top: 20px;
+}
+.cardmaindiv{
+    background-color: rgb(13,35,41);
+    border-bottom: 1PX solid grey;
+}
+.maincards:hover
+{ transform: translate3D(0,-1px,0) scale(1.03); 
+}
+.footerdiv{
+    background-color: rgb(13,35,41);
+}

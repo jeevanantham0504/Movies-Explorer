@@ -1,0 +1,28 @@
+.detailspagemaindiv{
+    background-color:  rgb(13,35,41);
+    min-height: 90vh;
+}
+.detailsheading{
+    color: rgb(132,245,251);
+}
+.trailerdiv{
+    border: 2px solid rgb(132,245,251);
+    border-radius: 6px;
+}
+.detailspagetotaldiv{
+    background-color: rgb(13,35,41);
+}
+.castdiv{
+    border: 1px solid rgb(132,245,251);
+    padding-top: 10px;
+    border-radius: 6px;
+}
+.paradivdetailspage{
+
+}
+.lastparadetails{
+    font-size: 20px;
+}
+.sidedivsdetails{
+    background-color: rgb(13,35,41);
+}
